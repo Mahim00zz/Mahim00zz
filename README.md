@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my Bachelor's in Computer Science in NYC, and I'm passionate about exploring and building with machine learning models. I love expanding my coding skills and work on new projects every week to challenge myself and learn something new.<br><br>Fun fact: I'm a competitive badminton and cricket enthusiast!
+I'm a recent graduate with a Bachelors in Computer Science, I'm passionate about exploring and building with machine learning models. I love expanding my coding skills and work on new projects every week to challenge myself and learn something new.<br><br>Fun fact: I'm a competitive badminton and cricket enthusiast!
 
 
 ## 🌐 Socials:
