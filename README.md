@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a recent graduate with a Bachelors in Computer Science, I'm passionate about exploring and building with machine learning models. I love expanding my coding skills and work on new projects every week to challenge myself and learn something new.<br><br>Fun fact: I'm a competitive badminton and cricket enthusiast!
+# Hi, I'm Mahim Rahaman 👋
+
+🎓 Computer Science Graduate from Lehman College, CUNY (GPA: 3.72/4.00)
+
+💻 Passionate about Machine Learning, Full-Stack Development, and Mobile Applications
+
+🔧 Skills: Python, Java, JavaScript, Kotlin, SQL, React, Next.js, Tailwind CSS, PostgreSQL
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahimrahaman) | [Email](mailto:mahimrahman288@gmail.com)
 
 
 ## 🌐 Socials:
