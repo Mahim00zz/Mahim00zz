@@ -7,7 +7,7 @@
 
 🔧 Skills: Python, Java, JavaScript, Kotlin, SQL, React, Next.js, Tailwind CSS, PostgreSQL
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahimrahaman) | [Email](mailto:mahimrahman288@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahimrahaman) | [Email](mailto:mahimrahman288@gmail.com) | [Resume]([mailto:mahimrahman288@gmail.com](https://self.so/Mahim-Rahaman-Mahim00zz))
 
 
 ## 🌐 Socials:
